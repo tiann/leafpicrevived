@@ -1,6 +1,6 @@
 <resources>
     <!--LEAFPIC STRINGS-->
-    <!--<string name="app_name">LeafPic</string>-->
+    <string name="app_name">Gallery</string>
     <string name="app_light_description">A colorful material gallery.</string>
     <string name="team_name">HoraApps</string>
     <string name="welcome_slide_title">Welcome To LeafPic Revived!</string>
